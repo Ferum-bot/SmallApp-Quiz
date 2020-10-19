@@ -9,3 +9,11 @@ Hello! This is my first application, so it will be optimized lately.
   
   
 # How it looks like:
+
+![](screenshots/screen_1.png "Main Activity")
+
+
+![](screenshots/screen_2.png "Example of Quastion")
+
+
+# Enjoy and code!
